@@ -5,7 +5,7 @@ This is a simple Python project that generates QR codes for UPI payments (PhoneP
 
 🛠 Requirements Python 3.x qrcode library (install using pip install qrcode[pil])
 
-🚀 Usage Clone the repository: git clone https://github.com/your-username/upi-qr-generator.git
+🚀 Usage Clone the repository: git clone https://github.com/Devendra-verma-00/upi-qr-generator.git
 
 cd upi-qr-generator
 Run the script:
